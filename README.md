@@ -14,15 +14,15 @@ involved in the project. Following are the problems:
 To solve these problems, they need to implement Continuous Integration & Continuous Deployment 
 with DevOps using following tools: 
 
-# Git – For version control for tracking changes in the code files
+Git – For version control for tracking changes in the code files
 
-# Jenkins – For continuous integration and continuous deployment
+Jenkins – For continuous integration and continuous deployment
 
-# Docker – For deploying containerized applications
+Docker – For deploying containerized applications
 
-# Puppet/Ansible - Configuration management tools
+Puppet/Ansible - Configuration management tools
 
-# Selenium - For automating tests on the deployed web application
+Selenium - For automating tests on the deployed web application
 
 This project will be about how to do deploy code to dev/stage/prod etc, just on a click of button.
 
